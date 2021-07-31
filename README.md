@@ -12,7 +12,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Description
   A node.js application that uses user input from inquirer to populate a HTML file for user. The HTML file is created in the dist directory 
 ## Video
-    https://mr91217.github.io/Team-Profile-Generator/
+    (https://mr91217.github.io/Team-Profile-Generator/)
 ## Screenshot
 ![Team-Profile-Generator](./src/ScreenShot-Team-Profile-Generator.png)
 ## Table of Contents
