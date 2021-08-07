@@ -366,7 +366,7 @@ console.log(internsArray);
 
 
 
-fs.writeFile(`./dist/index.html`, htmlArray.join(""), function (err) {
+fs.writeFile(`./dist/${teamnameArray[0]}.html`, htmlArray.join(""), function (err) {
       // if there is an error 
       if (err) {
         console.log(err);
