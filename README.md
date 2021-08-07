@@ -21,6 +21,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 - [Usage](#usage)
 - [Languages](#languages)
 - [Contributing](#contributing)
+- [Reference](#reference)
 - [Questions](#questions)
 ## Installation
   `npm init`
@@ -36,6 +37,9 @@ SO THAT I have quick access to their emails and GitHub profiles
   JavaScript,Node,HTML,CSS
 ## Contributing
   ChunYu Chang
+## Reference
+  https://github.com/mattbeachey/Team-Profile-Generator
+  Class Moudles
 ## Questions
  Contact me<br />
 
