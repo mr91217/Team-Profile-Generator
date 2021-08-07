@@ -38,7 +38,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 ## Contributing
   ChunYu Chang
 ## Reference
-  https://github.com/mattbeachey/Team-Profile-Generator
+  https://github.com/mattbeachey/Team-Profile-Generator <br />
   Class Moudles
 ## Questions
  Contact me<br />
